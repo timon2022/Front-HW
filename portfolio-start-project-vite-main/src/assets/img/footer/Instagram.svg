@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Фон: черная трапеция -->
+  <path d="M40 160 L160 160 L140 40 L60 40 Z" fill="black" />
+
+  <!-- Фиолетовый круг -->
+  <circle cx="100" cy="100" r="30" fill="purple" />
+
+  <!-- Буква A -->
+  <path d="M90 160 L100 40 L110 160 Z" fill="white" />
+  <rect x="85" y="95" width="30" height="5" fill="white" />
+</svg>
